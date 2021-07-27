@@ -5,7 +5,7 @@ Typescript<br>
 [Online Pong with NestJS and Angular](https://github.com/jnannie21/ft_transcendence)
 
 C++<br>
-[HTTP webserver](https://github.com/jnannie21/webserv)<br>
+[HTTP server](https://github.com/jnannie21/webserv)<br>
 [STL контейнеры](https://github.com/jnannie21/containers)
 
 C<br>
